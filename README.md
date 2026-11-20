@@ -1,6 +1,8 @@
 # Multi-Provider LLM Intelligent Gateway
 
 > 📚 **This is a learning project.** It isn't a production-ready app or a library. It's a notebook where I explored how LLM gateways work.
+>
+> 🎓 **I didn't build this all by myself.** It's part of the **Production Agentic AI Engineering Bootcamp** by **Krish Naik** on Udemy. See [Credits](#credits).
 
 ## What I Was Trying to Learn
 
@@ -54,6 +56,14 @@ Most cells only need **OpenAI** and **Groq** keys. The Anthropic and Gemini cell
 - **Fallbacks** are the easiest way to survive provider outages.
 - **Routing** cheap tasks to cheap or fast models saves real money.
 - Caching, cost tracking and guardrails all fit naturally in the gateway layer.
+
+## Credits
+
+This project is the capstone project of **Module 5: Working with Modern LLMs in Production** in the **Production Agentic AI Engineering Bootcamp** by **Krish Naik** on Udemy.
+
+The notebook follows the course material. I worked through it, ran the experiments and wrote up my notes, but the original code and ideas come from the course.
+
+All credit for the course content goes to Krish Naik and the course team. This repo is only my personal learning copy.
 
 ---
 
