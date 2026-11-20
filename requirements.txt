@@ -1,0 +1,5 @@
+litellm
+langchain-litellm
+langchain-core
+python-dotenv
+jupyter
